@@ -1,0 +1,11 @@
+C:\Users\Eduardo\Desktop\01\flapbird\FlapBird\FlapBird\bin\Debug\FlapBird.exe.config
+C:\Users\Eduardo\Desktop\01\flapbird\FlapBird\FlapBird\bin\Debug\FlapBird.exe
+C:\Users\Eduardo\Desktop\01\flapbird\FlapBird\FlapBird\bin\Debug\FlapBird.pdb
+C:\Users\Eduardo\Desktop\01\flapbird\FlapBird\FlapBird\obj\Debug\FlapBird.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Desktop\01\flapbird\FlapBird\FlapBird\obj\Debug\FlapBird.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo\Desktop\01\flapbird\FlapBird\FlapBird\obj\Debug\FlapBird.Properties.Resources.resources
+C:\Users\Eduardo\Desktop\01\flapbird\FlapBird\FlapBird\obj\Debug\FlapBird.csproj.GenerateResource.cache
+C:\Users\Eduardo\Desktop\01\flapbird\FlapBird\FlapBird\obj\Debug\FlapBird.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\01\flapbird\FlapBird\FlapBird\obj\Debug\FlapBird.exe
+C:\Users\Eduardo\Desktop\01\flapbird\FlapBird\FlapBird\obj\Debug\FlapBird.pdb
+C:\Users\Eduardo\Desktop\01\flapbird\FlapBird\FlapBird\obj\Debug\FlapBird.flapbird.resources
